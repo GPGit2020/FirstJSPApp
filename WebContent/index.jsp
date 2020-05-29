@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>First Java JSP Program Jenk</title>
+<title>First Java JSP Program Jenkens</title>
 </head>
 <body>
 <h1>Hello! This is first JSP Page for You!</h1>
